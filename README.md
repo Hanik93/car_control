@@ -9,5 +9,7 @@ Quick Start Guide
 2) Mit dem Hotspot verbinden (WLAN-Name: Jetson; Passwort: jetson23).
 3) App-release.apk entpacken und installieren.
 4) App öffnen.
+
 Auf iOS aktuell leider nicht verfügbar.
+
 Viel Spaß!
